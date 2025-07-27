@@ -18,6 +18,7 @@ const Header = ({ siteTitle }) => {
   return (
     <header className="header">
       <div className="header-container">
+        {/* Brand/Logo */}
         <div className="header-brand">
           <Link to="/" className="brand-link" onClick={closeMenu}>
             <FaHeart className="brand-icon" />
@@ -26,7 +27,7 @@ const Header = ({ siteTitle }) => {
         </div>
 
         {/* Desktop Navigation */}
-        <nav className="nav-menu desktop-nav">
+        <nav className="desktop-nav">
           <ul className="nav-list">
             <li className="nav-item">
               <Link to="/" className="nav-link">
@@ -67,6 +68,7 @@ const Header = ({ siteTitle }) => {
           </ul>
         </nav>
 
+        {/* Header Actions */}
         <div className="header-actions">
           <Link to="/donate" className="btn btn-donate">
             Donate Now
