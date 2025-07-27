@@ -10,7 +10,7 @@
 
 *A modern, responsive charity website built with Gatsby for Hope Foundation. This website showcases our mission, programs, and provides easy ways for supporters to donate and get involved.*
 
-[🌐 Live Demo](https://sample-gatsby-dtune.ondigitalocean.app/) • [📖 Documentation](#documentation) • [🚀 Deploy](#deployment) • [🤝 Contributing](#contributing)
+[🌐 Live Demo](https://sample-gatsby-6fe3p.ondigitalocean.app/) • [📖 Documentation](#documentation) • [🚀 Deploy](#deployment) • [🤝 Contributing](#contributing)
 
 </div>
 
@@ -132,6 +132,8 @@ digital-ocean-gatsby-practice/
 ### Digital Ocean App Platform (Recommended)
 
 This website is optimized for deployment on Digital Ocean App Platform:
+
+**🌐 Live Website:** [https://sample-gatsby-6fe3p.ondigitalocean.app/](https://sample-gatsby-6fe3p.ondigitalocean.app/)
 
 1. **Connect your repository** to Digital Ocean App Platform
 2. **Configure build settings**:
