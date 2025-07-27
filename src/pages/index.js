@@ -65,6 +65,11 @@ const IndexPage = () => {
     <Layout>
       <SEO title="Home" />
       
+      {/* DEPLOYMENT TEST BANNER */}
+      <div style={{background: 'red', color: 'white', padding: '10px', textAlign: 'center', fontSize: '20px', fontWeight: 'bold', position: 'fixed', top: '0', left: '0', right: '0', zIndex: '9999'}}>
+        🚨 HOPE FOUNDATION WEBSITE - DEPLOYMENT TEST 🚨
+      </div>
+      
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
