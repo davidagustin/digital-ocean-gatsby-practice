@@ -10,7 +10,7 @@
 
 *A modern, responsive charity website built with Gatsby for Hope Foundation. This website showcases our mission, programs, and provides easy ways for supporters to donate and get involved.*
 
-[🌐 Live Demo](#) • [📖 Documentation](#documentation) • [🚀 Deploy](#deployment) • [🤝 Contributing](#contributing)
+[🌐 Live Demo](https://sample-gatsby-dtune.ondigitalocean.app/) • [📖 Documentation](#documentation) • [🚀 Deploy](#deployment) • [🤝 Contributing](#contributing)
 
 </div>
 

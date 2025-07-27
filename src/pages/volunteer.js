@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import { FaHeart, FaUsers, FaHandHoldingHeart, FaGlobe, FaCalendarAlt, FaMapMarkerAlt, FaArrowRight, FaGraduationCap, FaStethoscope, FaTint, FaExclamationTriangle, FaClock, FaUserFriends, FaAward, FaEnvelope } from "react-icons/fa"
+import { FaHeart, FaUsers, FaHandHoldingHeart, FaGlobe, FaCalendarAlt, FaMapMarkerAlt, FaArrowRight, FaGraduationCap, FaStethoscope, FaTint, FaExclamationTriangle, FaClock, FaUserFriends, FaAward, FaEnvelope, FaPhone } from "react-icons/fa"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
