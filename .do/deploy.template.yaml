@@ -4,5 +4,5 @@ spec:
   - environment_slug: gatsby
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-gatsby.git
+      repo_clone_url: https://github.com/davidagustin/digital-ocean-gatsby-practice.git
     name: sample-gatsby

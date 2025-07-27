@@ -123,4 +123,4 @@ static/admin/*.bundle.*
 static/admin/*.bundle.*.map
 
 # Digital Ocean App Platform
-.do/
+# .do/
