@@ -17,7 +17,7 @@
   align-items: center;
   justify-content: space-between;
   height: 70px;
-  gap: 1rem;
+  gap: 2rem;
 }
 
 /* Brand/Logo */
@@ -70,6 +70,7 @@
   align-items: center;
   flex: 1;
   justify-content: center;
+  max-width: 600px;
 }
 
 .nav-list {
@@ -77,8 +78,9 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  gap: 1.5rem;
+  gap: 1rem;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .nav-item {
@@ -89,9 +91,10 @@
   color: white;
   text-decoration: none;
   font-weight: 500;
-  padding: 0.5rem 0;
+  padding: 0.5rem 0.25rem;
   transition: all 0.3s ease;
   position: relative;
+  white-space: nowrap;
 }
 
 .nav-link:hover {
@@ -120,6 +123,7 @@
   align-items: center;
   gap: 1rem;
   flex-shrink: 0;
+  min-width: 140px;
 }
 
 .btn-donate {
@@ -164,7 +168,11 @@
     padding: 0 1rem;
     gap: 0.5rem;
   }
-
+  
+  .nav-menu {
+    max-width: none;
+  }
+  
   .nav-menu {
     position: fixed;
     top: 70px;
